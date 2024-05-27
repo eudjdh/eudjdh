@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @eudjdh
-- 👀 I’m interested in OS especially HarmonyOS by Huawei
-- 🌱 I’m learning to be a excellent os programme developer, and I want to do something for China's OS industry
+- 👀 I’m interested in OS especially HarmonyOS by Huawei, but now I'm only a student from Xidian University
+- 🌱 I’m learning to be a excellent os programme developer, and I want to do something for China's OS industry(I hope so!!!)
 - 📫 How to reach me:22009201246@stu.xidian.edu.cn
